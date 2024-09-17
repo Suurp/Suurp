@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!;Welcome++to+my+Github+profile!)](https://git.io/typing-svg)
+<img src="https://i.pinimg.com/originals/57/19/29/571929b5520bd31c9f57a43094dbdd61.gif" alt="Pixel Art" align="right" width="300">
 
-<img src="https://i.pinimg.com/originals/57/19/29/571929b5520bd31c9f57a43094dbdd61.gif" alt="Pixel Art" align="right" width="200">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!;Welcome++to+my+Github+profile!)](https://git.io/typing-svg)
 
 ### Technologies and tools:
 
@@ -19,7 +19,7 @@
 
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/Suurp">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Suurp&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suurp&layout=compact&langs_count=7&theme=one_dark_pro"/>
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Suurp&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suurp&layout=compact&langs_count=7&theme=one_dark_pro"/>
   </a>
 </div>
